@@ -117,7 +117,7 @@
 &kp LSHFT    &kp A   &kp S     &kp D      &kp F         &kp G      &kp H      &kp J          &kp K      &kp L     &kp SEMI  &kp SQT
 &kp CAPS     &kp Z   &kp X     &kp C      &kp V         &kp B      &kp N      &kp M          &kp COMMA  &kp DOT   &kp FSLH  &kp LSHFT
                      &kp LGUI  &kp LCTRL  &kp LEFT_ALT  &kp SPACE  &kp ENTER  &kp BACKSPACE  &kp LBKT   &kp RBKT
-                     &kp F6    &kp ESC    &kp F5        &mt F7 F7  &kp UP     &kp RIGHT      &kp LEFT   &kp DOWN
+                     &kp F7    &kp ESC    &kp F6        &mt F7 F5  &kp UP     &kp RIGHT      &kp LEFT   &kp DOWN
             >;
         };
 
